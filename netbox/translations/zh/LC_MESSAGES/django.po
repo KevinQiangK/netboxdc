@@ -10154,7 +10154,7 @@ msgstr "表的对象类型"
 
 #: netbox/extras/models/models.py:615
 msgid "table"
-msgstr "桌子"
+msgstr "表"
 
 #: netbox/extras/models/models.py:663
 msgid "table config"
@@ -10167,12 +10167,12 @@ msgstr "表格配置"
 #: netbox/extras/models/models.py:706
 #, python-brace-format
 msgid "Unknown table: {name}"
-msgstr "未知表： {name}"
+msgstr "未知表： {name}" 
 
 #: netbox/extras/models/models.py:717 netbox/extras/models/models.py:724
 #, python-brace-format
 msgid "Unknown column: {name}"
-msgstr "未知专栏： {name}"
+msgstr "未知列： {name}"
 
 #: netbox/extras/models/models.py:747
 msgid "image height"
@@ -13741,7 +13741,7 @@ msgstr "列表"
 #: netbox/templates/core/htmx/system_db_schema.html:18
 #: netbox/templates/core/htmx/system_db_schema.html:65
 msgid "Columns"
-msgstr "专栏"
+msgstr "列"
 
 #: netbox/templates/account/preferences.html:58
 #, python-format
@@ -13986,7 +13986,7 @@ msgstr "bytes"
 
 #: netbox/templates/core/htmx/system_db_schema.html:10
 msgid "Tables"
-msgstr "桌子"
+msgstr "表"
 
 #: netbox/templates/core/htmx/system_db_schema.html:26
 #: netbox/templates/core/htmx/system_db_schema.html:95
@@ -13999,7 +13999,7 @@ msgstr "插件"
 
 #: netbox/templates/core/htmx/system_db_schema.html:40
 msgid "tables"
-msgstr "桌子"
+msgstr "表"
 
 #: netbox/templates/core/htmx/system_db_schema.html:41
 #: netbox/templates/core/htmx/system_db_schema.html:56
@@ -14012,7 +14012,7 @@ msgstr "列"
 
 #: netbox/templates/core/htmx/system_db_schema.html:69
 msgid "Column"
-msgstr "专栏"
+msgstr "列"
 
 #: netbox/templates/core/htmx/system_db_schema.html:71
 msgid "Nullable"
